@@ -1,5 +1,6 @@
 # OCBC_Hack-IT-
-Submission for HACK-IT! at OCBC
+Submission for HACK-IT! at OCBC <br>
+Track: Data & AI
 
 # To View Notebook
 Click on the `OCBC_Hack_IT_Data_AI.ipynb` file in this repo.
@@ -13,6 +14,6 @@ Click on the `OCBC_Hack_IT_Data_AI.ipynb` file in this repo.
 6. Run the notebook
 
 # Comments
-I am unable to gather much insights on the datasets. <br>
-I am unsure of how to use any models or algorithms to seek out any insights from the data. <br>
+Only very simple and basic patterns are being identified in the notebook. <br>
+I am unable to gather much insights on the datasets and also unsure of which models and algorithms could be used to derive any insights from the data. <br>
 I would be grateful for any suggestions on how to use algorithms to model the data.
